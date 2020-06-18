@@ -1,1 +1,2 @@
 v0.0.1 first build 1e7eccf..7fcebe4
+v0.0.2 api tested 7fcebe4..200cf25
